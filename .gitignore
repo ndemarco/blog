@@ -1,0 +1,30 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build directories
+site/
+build/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Editor and system files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# MkDocs specific
+*.lock
+mkdocs.yml.lock
+.cache/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
