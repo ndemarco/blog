@@ -28,3 +28,13 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by/4.0/
+      name: "CC BY 4.0 License"
+  consent:
+    title: "Privacy & License"
+    description: "This work is licensed under a CC BY 4.0 license."
